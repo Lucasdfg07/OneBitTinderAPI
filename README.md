@@ -1,7 +1,7 @@
-  #OneBitTinder API
+  # OneBitTinder API
   
-  ##Referent Repository used to execute the Tinder APP (https://github.com/Lucasdfg07/TinderAPP)!
-  ###Learn and built into OneBitCode bootcamp!!
+  ## Referent Repository used to execute the Tinder APP (https://github.com/Lucasdfg07/TinderAPP)!
+  ### Learn and built into OneBitCode bootcamp!!
   
   - Repository: https://github.com/Lucasdfg07/TinderAPP
     - In case of sensitive bugs like security vulnerabilities, please contact
