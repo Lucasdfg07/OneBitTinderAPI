@@ -1,0 +1,10 @@
+development:
+  adapter: async
+
+test:
+  adapter: async
+
+production:
+  adapter: redis
+  url: redis://redistogo:d392554daff21ba64349eda6e01ac312@crestfish.redistogo.com:10197/
+  channel_prefix: onebitinder_api_production
