@@ -1,24 +1,19 @@
-# README
+  Referent Repository used to execute the Tinder APP (https://github.com/Lucasdfg07/TinderAPP)!!
+  Learn and built into OneBitCode bootcamp!!
+  
+  - Repository: https://github.com/Lucasdfg07/TinderAPP
+    - In case of sensitive bugs like security vulnerabilities, please contact
+      Lucassiqueiraferandes07@gmail.com directly instead of using issue tracker. We value your effort
+      to improve the security and privacy of this project!
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+  ## Versioning
 
-Things you may want to cover:
+  1.0.0.0
 
-* Ruby version
 
-* System dependencies
+  ## Authors
 
-* Configuration
+  * **Lucas Siqueira Fernandes** 
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+  Please follow github and join us!
+  Thanks to visiting me and good coding!
